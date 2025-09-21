@@ -1,0 +1,17 @@
+Project: Bank Management System (C)
+
+Designed and implemented a menu-driven console application in C to manage basic banking operations.
+
+Key Features:
+
+Create new accounts
+
+Deposit and withdraw money
+
+Check account balance
+
+Display all account records
+
+Implemented using structures, file handling, and CRUD operations to ensure persistent data storage.
+
+Demonstrated understanding of low-level programming, file operations, and modular coding practices.
